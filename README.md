@@ -5,13 +5,13 @@
 1. Clone the project
 
 ```sh
-git clone https://github.com/pixyj/mb-async-live-review-1 async_live_review
+git clone https://github.com/agraharidheeraj/async-practice-1.git
 ```
 
 2. cd to the `async_live_review` directory
 
 ```sh
-cd async_live_review
+cd async-review-1
 ```
 
 3. Install dependencies
